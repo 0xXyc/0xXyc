@@ -6,3 +6,6 @@
 - ⚡ Fun fact: Did I mention I love breaking things?
 
 My OSCP Notes repo grew out to consisting of all of my hacking notes. Therefore, it is not just for OSCP prep. Feel free to check it out!
+### Coming soon...
+- Be on the look out for my shadow stack white paper!
+- Also look for the completion of my process injection journey!
