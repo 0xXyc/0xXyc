@@ -9,4 +9,3 @@ My OSCP Notes repo grew out to consisting of all of my hacking notes. Therefore,
 ### Coming soon...
 - Be on the look out for my ret2libc and ret2win white papers!
 - Also look for the completion of my process injection journey!
-![Snake animation](https://raw.githubusercontent.com/{0xXyc}/{0xXyc}/output/github-contribution-grid-snake-dark.svg)
